@@ -18,13 +18,6 @@ Prisma: Effortlessly connecting and managing your database.
 Redis: Caching poll results for quick access.
 Getting Started:
 
-Prerequisites: Node.js and Yarn/NPM installed.
-Clone & Install: git clone https://github.com/your-username/poll-app.git && cd poll-app && yarn install
-Start Development: yarn start (application runs at http://localhost:3000)
-Contributing:
-
-Fork the repository and submit pull requests to contribute!
-
 License:
 
 MIT License
